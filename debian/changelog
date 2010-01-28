@@ -1,0 +1,37 @@
+bubba (1.2.99) estelle claire; urgency=low
+
+  * Added wireless wifi wlan support
+  * ...
+
+ -- Carl Fürstenberg <carl@excito.com>  Thu, 28 Jan 2010 16:14:46 +0100
+
+bubba (1.2.4) karmic; urgency=low
+
+  * SqueezeboxServer release 7.4.1
+  * Web-admin upload failsafe bugfix
+
+ -- Carl Fürstenberg <carl@excito.com>  Wed, 04 Nov 2009 18:15:51 +0100
+
+bubba (1.2.3) estelle; urgency=low
+
+  * SqueezeboxServer (former SqueezeCenter) release 7.4.0 
+
+ -- Carl Fürstenberg <carl@excito.com>  Tue, 13 Oct 2009 13:34:09 +0200
+
+bubba (1.2.2) estelle; urgency=emergency
+
+  * Bugfix release 1.2.2 
+
+ -- Carl Fürstenberg <carl@excito.com>  Fri, 25 Sep 2009 16:26:12 +0200
+
+bubba (1.2.1) marielle estelle claire; urgency=low
+
+  * Release 1.2.1 
+
+ -- Carl Fürstenberg <carl@excito.com>  Fri, 04 Sep 2009 13:43:08 +0200
+
+bubba (1.2.0.51) estelle; urgency=low
+
+  * Devel pre release 1.2.1
+
+ -- Carl Fürstenberg <carl@excito.com>  Mon, 17 Aug 2009 17:12:53 +0200

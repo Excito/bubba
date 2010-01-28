@@ -1,0 +1,19 @@
+Source: bubba
+Section: admin
+Priority: required
+Maintainer: Tor Krill <tor@excito.com>
+Uploaders: Carl Fürstenberg <carl@excito.com>
+Build-Depends: debhelper (>= 5), cdbs
+Standards-Version: 3.8.0
+Homepage: http://www.excito.com
+
+Package: bubba
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends},
+ bubba-backend,
+ bubba-frontend,
+ bubba-manual,
+ bubba-album
+Description: Meta-package for the Bubba install to define current version
+ This meta package has the major task of defining the current installed release
+ of BubbaTwo

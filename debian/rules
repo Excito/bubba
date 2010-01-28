@@ -1,0 +1,6 @@
+#!/usr/bin/make -f
+
+include /usr/share/cdbs/1/rules/debhelper.mk 
+
+binary-post-install/bubba::
+	echo $(DEB_VERSION) > debian/bubba/etc/bubba.version
