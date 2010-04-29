@@ -1,3 +1,16 @@
+bubba (2.0.2) claire estelle; urgency=low
+
+  * Bugfix release 
+
+ -- Carl Fürstenberg <carl@excito.com>  Mon, 26 Apr 2010 11:31:45 +0200
+
+bubba (2.0.1) karmic; urgency=low
+
+  * Bugfix release to resolve the issue with broken updates due to lack of
+    FQDN.
+
+ -- Carl Fürstenberg <carl@excito.com>  Tue, 20 Apr 2010 12:14:00 +0200
+
 bubba (2.0) claire estelle; urgency=low
 
   * New release 
