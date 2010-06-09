@@ -1,6 +1,8 @@
 #!/usr/bin/make -f
 
-include /usr/share/cdbs/1/rules/debhelper.mk 
+%:
+	dh $@
 
-binary-post-install/bubba::
-	echo $(DEB_VERSION) > debian/bubba/etc/bubba.version
+override_dh_install:
+	dh_install
+	echo "$(shell dpkg-parsechangelog | sed -n -e 's/^Version: //p')" > debian/bubba/etc/bubba.version

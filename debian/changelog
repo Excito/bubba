@@ -1,3 +1,10 @@
+bubba (2.0.3) vincent; urgency=low
+
+  * B3 
+  * Switch to dpkg-source 3.0 (native) format
+
+ -- Carl Fürstenberg <carl@excito.com>  Wed, 09 Jun 2010 14:39:47 +0200
+
 bubba (2.0.2) claire estelle; urgency=low
 
   * Bugfix release 
