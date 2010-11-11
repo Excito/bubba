@@ -1,3 +1,9 @@
+bubba (2.2.0) vincent hugo; urgency=low
+
+  * Bump for release 
+
+ -- Tor Krill <tor@excito.com>  Thu, 11 Nov 2010 13:34:33 +0100
+
 bubba (2.1.99) vincent hugo; urgency=low
 
   * Bump for system test 
