@@ -1,3 +1,9 @@
+bubba (2.2.4) vincent hugo; urgency=low
+
+  * Upgrade for Squeezeboxserver 7.5.4
+
+ -- Carl Fürstenberg <carl@excito.com>  Tue, 26 Apr 2011 12:56:19 +0200
+
 bubba (2.2.3) vincent hugo; urgency=low
 
   * New kernel 2.6.38, related to instabillities on wlan interfaces
