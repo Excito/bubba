@@ -1,3 +1,9 @@
+bubba (2.3~rc2) vincent hugo; urgency=low
+
+  * 2.3 pre release 2
+
+ -- Carl Fürstenberg <carl@excito.com>  Mon, 30 May 2011 16:05:19 +0200
+
 bubba (2.2.4) vincent hugo; urgency=low
 
   * Upgrade for Squeezeboxserver 7.5.4
