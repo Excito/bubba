@@ -1,3 +1,9 @@
+bubba (2.3.0.2) vincent hugo; urgency=low
+
+  * Backup system bugfixes
+
+ -- Carl Fürstenberg <carl@excito.com>  Fri, 05 Aug 2011 15:54:49 +0200
+
 bubba (2.3.0.1) vincent hugo; urgency=low
 
   * Quick fix for failed backup towards ssh target
