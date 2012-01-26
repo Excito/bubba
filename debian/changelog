@@ -1,8 +1,14 @@
+bubba (2.4) hugo vincent; urgency=low
+
+  * 2.4 Release
+
+ -- Carl Fürstenberg <carl@excito.com>  Thu, 26 Jan 2012 21:45:26 +0100
+
 bubba (2.4~rc2) hugo vincent; urgency=low
 
   * 2.4 Pre-release 2
 
- -- Carl Fürstenberg <carl@excito.com>  Mon, 23 Jan 2012 15:09:46 +0100
+ -- Carl Fürstenberg <carl@excito.com>  Thu, 26 Jan 2012 21:45:23 +0100
 
 bubba (2.3.2) vincent hugo; urgency=low
 
