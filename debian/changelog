@@ -1,3 +1,9 @@
+bubba (2.5+b1) hugo; urgency=low
+
+  * test
+
+ -- Carl Fürstenberg <carl@excito.com>  Thu, 24 May 2012 14:26:55 +0200
+
 bubba (2.5) hugo vincent; urgency=low
 
   * 2.5 release (Closes: #101)
