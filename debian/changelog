@@ -1,3 +1,9 @@
+bubba (2.5.1) vincent hugo; urgency=low
+
+  * Release 2.5.1
+
+ -- Carl Fürstenberg <carl@excito.com>  Thu, 30 Aug 2012 15:05:12 +0200
+
 bubba (2.5.0.2) hugo vincent; urgency=low
 
   * Bugfix release 2 for 2.5
