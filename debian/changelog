@@ -1,3 +1,9 @@
+bubba (2.5.1.2) vincent hugo elvin; urgency=low
+
+  * Micro upgrade of easyfind 
+
+ -- Carl Fürstenberg <carl@excito.com>  Thu, 15 Nov 2012 13:21:35 +0100
+
 bubba (2.5.1.1) vincent hugo; urgency=emergency
 
   * Emergency update for the upgrade system
