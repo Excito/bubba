@@ -1,3 +1,9 @@
+bubba (2.5.1.2+Tele2.2) unstable; urgency=low
+
+  * Tele2
+
+ -- Carl Fürstenberg <carl@excito.com>  Thu, 22 Nov 2012 15:01:30 +0100
+
 bubba (2.5.1.2) vincent hugo elvin; urgency=low
 
   * Micro upgrade of easyfind 
