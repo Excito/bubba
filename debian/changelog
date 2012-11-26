@@ -1,3 +1,9 @@
+bubba (2.5.1.2+Tele2.4.1) unstable; urgency=low
+
+  *test version upgrade
+
+ -- Carl Fürstenberg <carl@excito.com>  Mon, 26 Nov 2012 15:23:58 +0100
+
 bubba (2.5.1.2+Tele2.3.1) unstable; urgency=low
 
   * Dummy package to test version update
