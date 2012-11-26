@@ -5,4 +5,4 @@
 
 override_dh_install:
 	dh_install
-	echo "$(shell dpkg-parsechangelog | sed -n -e 's/^Version: //p')" > debian/bubba/etc/bubba.version
+	echo "$(shell dpkg-parsechangelog | sed -n -e 's/^Version: //p')" > debian/bubba/usr/share/bubba/bubba.version
