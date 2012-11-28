@@ -1,3 +1,9 @@
+bubba (2.5.1.2+Strato2) unstable; urgency=low
+
+  * Move version file to /usr (Closes: #700)
+
+ -- Carl Fürstenberg <carl@excito.com>  Wed, 16 Jan 2013 11:33:17 +0100
+
 bubba (2.5.1.2) vincent hugo elvin; urgency=low
 
   * Micro upgrade of easyfind 
