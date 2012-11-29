@@ -1,3 +1,9 @@
+bubba (2.5.1.2+Tele2.4.7) unstable; urgency=low
+
+  * new logo
+
+ -- Carl Fürstenberg <carl@excito.com>  Thu, 29 Nov 2012 11:22:52 +0100
+
 bubba (2.5.1.2+Tele2.4.6) unstable; urgency=low
 
   * update album inotify import
