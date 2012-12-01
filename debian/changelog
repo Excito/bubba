@@ -1,3 +1,9 @@
+bubba (2.5.1.2+Tele2.4.9) unstable; urgency=low
+
+  * new release
+
+ -- Carl Fürstenberg <carl@excito.com>  Sat, 01 Dec 2012 13:02:06 +0100
+
 bubba (2.5.1.2+Tele2.4.8) unstable; urgency=low
 
   * Test upgrade
