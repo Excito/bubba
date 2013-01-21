@@ -1,3 +1,9 @@
+bubba (2.5.1.2+Strato3) unstable testing; urgency=low
+
+  * new release
+
+ -- Carl Fürstenberg <carl@excito.com>  Mon, 21 Jan 2013 11:19:26 +0100
+
 bubba (2.5.1.2+Strato2) unstable; urgency=low
 
   * Move version file to /usr (Closes: #700)
