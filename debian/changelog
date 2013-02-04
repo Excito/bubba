@@ -1,3 +1,9 @@
+bubba (2.5.1.2+Strato9) unstable testing; urgency=low
+
+  * netdev fix
+
+ -- Carl Fürstenberg <carl@excito.com>  Mon, 04 Feb 2013 11:34:37 +0100
+
 bubba (2.5.1.2+Strato8) unstable testing; urgency=low
 
   * PATH fix
