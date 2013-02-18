@@ -1,3 +1,9 @@
+bubba (2.5.1.2+Strato11) unstable testing; urgency=low
+
+  * new test release
+
+ -- Carl Fürstenberg <carl@excito.com>  Mon, 18 Feb 2013 11:47:42 +0100
+
 bubba (2.5.1.2+Strato10) unstable testing; urgency=low
 
   * davfs2 cache fix
