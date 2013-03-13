@@ -1,3 +1,9 @@
+bubba (2.6~rc1) unstable testing; urgency=low
+
+  * new pre-release
+
+ -- Carl Fürstenberg <carl@excito.com>  Wed, 13 Mar 2013 12:53:56 +0100
+
 bubba (2.5.1.2+Strato11) unstable testing; urgency=low
 
   * new test release
