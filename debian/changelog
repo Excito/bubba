@@ -1,3 +1,9 @@
+bubba (2.6) hugo vincent; urgency=low
+
+  * Release of version 2.6
+
+ -- neira <neira.pasic@excito.com>  Wed, 26 Jun 2013 11:39:01 +0100
+
 bubba (2.6~rc2) unstable testing; urgency=low
 
   * new pre-release
